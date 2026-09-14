@@ -38,7 +38,7 @@ A collection of data science and data analysis projects demonstrating skills in 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/data-science-projects.git
+   git clone https://github.com/anaskhan313/data-science-projects.git
    ```
 2. Navigate to any project folder and open the `.ipynb` notebook:
    ```bash
